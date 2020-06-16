@@ -323,8 +323,8 @@ github.com/suzuki-shunsuke/flute/v2 v2.0.0/go.mod h1:wsUAUZbz+DSjv+XDv/gZeEX/mMu
 github.com/suzuki-shunsuke/go-cliutil v0.0.0-20181211154308-176f852d9bca/go.mod h1:Vq3NkhgmA9DT/2UZ08x/3A34xxvzQ/vTMABnTWKoMbY=
 github.com/suzuki-shunsuke/go-dataeq v0.1.0 h1:rA9VXGGDg9NCmYr7Y9ZJ+qjJ59Gu9OFE1kzVMXpj8NE=
 github.com/suzuki-shunsuke/go-dataeq v0.1.0/go.mod h1:JwXj7cqTxB9Lj0gkjSWJvgDfH7SlRc8yRl8lyfqU/N4=
-github.com/suzuki-shunsuke/go-httpclient v0.3.0 h1:6cslu4hX1PHMYVV47ajwS7AIax1oWDEe4h4E64JqZu0=
-github.com/suzuki-shunsuke/go-httpclient v0.3.0/go.mod h1:DjAgk9xNCBAn0t5rlwB7PbpZiQI8CNWA2Pn3YYlEf+M=
+github.com/suzuki-shunsuke/go-httpclient v0.3.1 h1:rWcgK379IovSTOugoOHvHCQloZPUd9pw4o6CGBM3bN8=
+github.com/suzuki-shunsuke/go-httpclient v0.3.1/go.mod h1:WqpWV1AOPDiGCIkFgiVZ53le63Gm/HTzOskSHeUdJ6A=
 github.com/suzuki-shunsuke/go-jsoneq v0.1.1/go.mod h1:vbOEb6bPf8nD+QASKzxtQ/vfVGgAyfWHyItUaUTwJWk=
 github.com/suzuki-shunsuke/go-jsoneq v0.1.2 h1:A4czEbmFqSELTbrEtXVo4dSgfz2e2Z0y6G3OpExUML8=
 github.com/suzuki-shunsuke/go-jsoneq v0.1.2/go.mod h1:ETXAwfruZTqMMKDxc9CYoS34CNSsnzcdcVIAW3+RujI=
